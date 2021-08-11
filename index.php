@@ -361,7 +361,7 @@
             <div class="row text-white relative">
                 <div class="col-xs-12 col-sm-6">
                     <div class="space-100"></div>
-                    <h3 class="text-white">Consejos para conseguir una buena salud</h3>
+                    <h3 class="text-white">Noticias Medicas</h3>
                     <div class="space-60"></div>
                     <div class="testimonials">
                         <div class="item">
