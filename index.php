@@ -121,7 +121,7 @@
                             <td>
                                 <div class="icon-sm"><i class="fa fa-phone"></i></div>
                             </td>
-                            <td><a href="#">+52 222 524 83 53</a></td>
+                            <td><a href="#">+52 238 101 99 93</a></td>
                         </tr>
                         <tr>
                             <td>
@@ -133,7 +133,7 @@
                             <td>
                                 <div class="icon-sm"><i class="fa fa-map-marker"></i></div>
                             </td>
-                            <td>5 norte 2802
+                            <td>7 Norte #138-A Col. Centro
                                 <br> Tehuacan Puebla</td>
                         </tr>
                     </table>
